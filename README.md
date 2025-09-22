@@ -134,8 +134,6 @@ plt.show()
 <img width="1189" height="990" alt="image" src="https://github.com/user-attachments/assets/aeecd041-612c-41cb-b59d-3282d10fd878" />
 <img width="1203" height="590" alt="image" src="https://github.com/user-attachments/assets/aeecd31d-e6e6-4957-b21f-da0de575ba2a" />
 
-
 # Results
-```
-```
-# Hardware experiment output waveform.
+Thus, the Python program for PCM & DM is executed successfully
+
